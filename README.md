@@ -66,13 +66,13 @@ The output Excel files will be named with the extension and the current date.put
 ## 📁 Project Structure
 
 ```
-reagent/reagent/
-├── claude.py claude.py
-├── copilot.pylot.py
+vscode-extensions-reviewer/
+├── claude.py
+├── copilot.py
 ├── google.py
-├── requirements.txtts.txt
+├── requirements.txt
 ├── data/
-└── readme.md
+└── README.md
 ```
 
 ---
